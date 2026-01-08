@@ -55,4 +55,9 @@ The results show a clear trade-off between prediction flexibility and output rel
    OPENROUTER_API_KEY=your_key_here
    ```
 ---
+## Open and run:
 
+```bash 
+   task1_rating_prediction.ipynb
+```
+---
